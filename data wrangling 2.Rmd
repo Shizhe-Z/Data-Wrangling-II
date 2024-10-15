@@ -1,5 +1,5 @@
 ---
-title: "Dta Wrangling II"
+title: "Data Wrangling II"
 author: "Shizhe Zhang"
 date: "2024-10-10"
 output: html_document
